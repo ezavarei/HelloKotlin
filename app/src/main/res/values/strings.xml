@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello Kotlin</string>
+    <string name="the_button">The Button</string>
+    <string name="funky_button">Funky Button</string>
+</resources>
